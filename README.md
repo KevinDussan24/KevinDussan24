@@ -21,3 +21,44 @@ I'm a Systems and Software Engineering student who loves turning ideas into impa
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ---
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark)
+
+---
+
+![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinDussan24&show_icons=true&theme=tokyonight" alt="KevinDussan24's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDussan24&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🌟 Featured Repositories
+
+[![Repo: DameunBreak();](https://github-readme-stats.vercel.app/api/pin/?username=KevinDussan24&repo=DameunBreak&theme=tokyonight)](https://github.com/DameUnBreak/Proyecto-ingesoft)
+
+---
+
+## 🏆 GitHub Profile Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KevinDussan24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## 📫 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/kevindussan24/)
+- 📧 [Correo Institucional]kdussanr@unal.edu.co
+- 🔵🟠🔴[Codeforces]https://codeforces.com/profile/kdussanr
+
+---
+
+⭐️ From [KevinDussan24](https://github.com/KevinDussan24)
