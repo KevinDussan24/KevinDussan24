@@ -44,9 +44,6 @@ I'm a Systems and Software Engineering student who loves turning ideas into impa
 ---
 
 ## 📫 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/kevindussan24/)
-- 📧 [Correo Institucional]kdussanr@unal.edu.co
-- 🔵🟠🔴[Codeforces](https://codeforces.com/profile/kdussanr)
 
 <p align="center">
 <a href="mailto:kdussanr@unal.edu.co"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
