@@ -20,24 +20,10 @@ I'm a Systems and Software Engineering student who loves turning ideas into impa
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
----
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark)
-
----
+## Others 
 
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinDussan24&show_icons=true&theme=tokyonight" alt="KevinDussan24's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDussan24&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
@@ -68,6 +54,13 @@ I'm a Systems and Software Engineering student who loves turning ideas into impa
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevindussan24/)
 - 📧 [Correo Institucional]kdussanr@unal.edu.co
 - 🔵🟠🔴[Codeforces](https://codeforces.com/profile/kdussanr)
+
+<p align="center">
+<a href="mailto:kdussanr@unal.edu.co"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:dussanruizkevinandres@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:sbellom@unal.edu.co"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kevin-andres-dussan-ruiz-6453262b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
