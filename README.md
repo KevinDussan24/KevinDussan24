@@ -41,9 +41,19 @@ I'm a Systems and Software Engineering student who loves turning ideas into impa
 
 ---
 
-## 🌟 Featured Repositories
+## 🧠 Language Proficiency
 
-[![Repo: DameunBreak();](https://github-readme-stats.vercel.app/api/pin/?username=KevinDussan24&repo=DameunBreak&theme=tokyonight)](https://github.com/DameUnBreak/Proyecto-ingesoft)
+| Language | Skill Level | 
+|:--|:--|
+| 🐍 **Python** | ██████████████░░░░░ 80% |
+| ☕ **Java** | ████████░░░░░░░░░░░ 55% |
+| 💻 **C++** | ████░░░░░░░░░░░░░░░ 30% |
+| 📊 **R** | ██░░░░░░░░░░░░░░░░░░ 20% |
+| ⚡ **JavaScript** | ██░░░░░░░░░░░░░░░░░░ 15% |
+
+> 🔹 Python is my strongest language — I use it for data analysis, scripting, and backend development.  
+> 🔹 Java for object-oriented design and desktop applications.  
+> 🔹 C++, R, and JavaScript for algorithmic and data tasks.
 
 ---
 
@@ -57,7 +67,7 @@ I'm a Systems and Software Engineering student who loves turning ideas into impa
 ## 📫 Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevindussan24/)
 - 📧 [Correo Institucional]kdussanr@unal.edu.co
-- 🔵🟠🔴[Codeforces]https://codeforces.com/profile/kdussanr
+- 🔵🟠🔴[Codeforces](https://codeforces.com/profile/kdussanr)
 
 ---
 
