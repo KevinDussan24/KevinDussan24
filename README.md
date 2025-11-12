@@ -43,13 +43,6 @@ I'm a Systems and Software Engineering student who loves turning ideas into impa
 
 ---
 
-## 🏆 GitHub Profile Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KevinDussan24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
 ## 📫 Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevindussan24/)
 - 📧 [Correo Institucional]kdussanr@unal.edu.co
@@ -57,8 +50,8 @@ I'm a Systems and Software Engineering student who loves turning ideas into impa
 
 <p align="center">
 <a href="mailto:kdussanr@unal.edu.co"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://codeforces.com/profile/kdussanr"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 <a href="mailto:dussanruizkevinandres@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="mailto:sbellom@unal.edu.co"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/kevin-andres-dussan-ruiz-6453262b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
